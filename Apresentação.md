@@ -1,6 +1,6 @@
 ## Módulo 0
 
-#### Prepare-se para a jornada:
+## Prepare-se para a jornada:
 
 No módulo 0 do bootcamp Santander, eu recebi as boas-vindas ao bootcamp e também à Dio, compreendi um pouco o ecossistema da Dio, assim como as metodologias e oportunidades do site. Fiz o **contrato de compromisso**, por fim, finalizei a pequena introdução com a FAQ e outras formas de entrar em contato com a DIO e interagir com os colegas do curso atráves do fórum e outros meios de comunicação.
 
